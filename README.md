@@ -1,3 +1,5 @@
+Hacettepe University Programming Assignment
+
 # Jewel Game
 
 The game consists of a grid (of any size, e.g. 10x10) of “jewels”. Some example jewels are Diamond (D), 
