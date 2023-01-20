@@ -1,8 +1,6 @@
-# Bejeweled Game
+# Jewel Game
 
-Game  
-Bejeweled® is a puzzle game created by PopCap Games in 2001. Various versions are available to play online, and on devices such as iPhone, 
-iPad and Android. The game consists of a grid (of any size, e.g. 10x10) of “jewels”. Some example jewels are Diamond (D), 
+The game consists of a grid (of any size, e.g. 10x10) of “jewels”. Some example jewels are Diamond (D), 
 Square (S), Triangle (T) and Wildcard (W). The goal is to find three jewels that are match in a row, column or diagonal by selecting the right 
 coordinate. When this occurs, the three jewels are deleted, and other jewels fall from the top to fill in gaps. If the selected coordinate is empty 
 or out of grid, then a warning message ("Please enter a valid coordinate") is displayed to the user and a new coordinate is requested.
@@ -37,5 +35,5 @@ All Mathematical symbols are worth 20 points.
 • monitoring.txt file contains the output.  
 
 # Execution
-  javac *.java  
-  java Main gameGrid.txt command.txt
+   javac *.java  
+   java Main gameGrid.txt command.txt
